@@ -2,7 +2,7 @@
 <h1 align="left">Olá, sou o Wallacy Caike <img src="https://i.pinimg.com/originals/35/fd/5a/35fd5ac0ccf20d1b59ac90a97e0f77d6.gif" height="40px"></h1>
 <!-- https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif -->
 <p align="left"> 
-  Sou um desenvolvedor front-end apaixonado por tecnologia, estou sempre em busca de aprender e aperfeiçoar minhas habilidades.
+  Sou um desenvolvedor front-end apaixonado por tecnologia, estou sempre em busca de aprender e aperfeiçoar minhas habilidades. Seja muito bem vindo!
 </p>
 
 
